@@ -1,2 +1,2 @@
 # CS-260
-Computational Genomics
+Coursework from Computational Genomics F19
